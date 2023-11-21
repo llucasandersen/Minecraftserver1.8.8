@@ -1,6 +1,6 @@
-# replit eaglercraft server
+# eaglercraft server
 
-### ty [Byte#9476](https://replit.com/@ant-7802) for fixing the forwarding issue!!
+### ty Lucas for fixing the forwarding issue!!
 
 [extra help discord server](https://discord.gg/9HfPSp3D)
 |
